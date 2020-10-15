@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "empcare",
+  "private_key_id": "47a9f7002062f8d76bcca89b3b1be333da58f072",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB3w7R2Uxz9IeE\ncJvYEi7FIAQKfuybAUANSENhHU75eYf3eLwQOT9cVnXoQFLl5rsEl/Xjz18MzBBL\nkxCIE+L/c+iVsOiKmX/mJF55GQ6fhZtD4tNKgb7wZJs9ADXG3yVpI8IsVodtitvH\nlws4DK+MR+uxtLtKhwg4YaY5xj4RJA4ESXJ3opv4cxlAWf+l5JZKiFA46O1TVA1C\n+tvYYLdYW6FxLOO6fijqehzYtg1G93bq01I67ehJihqiRckRmzQ1BEWTODCG2zMZ\n/RGYwNal7i5lPp8etCZRQoO16T40ZwHTE+YrooGh8ieOt70itTupSAytTyQ8N8YR\nSca0VI3FAgMBAAECggEAEca7S/g3P43v28UcMmXfE6RvCmv/Pj/mmMaD+xnIsyz2\nunUVFWMSZraSIsS8dSfAr9f5LArIezAThxfJ1RhcYNzxZMGvCNUF+lsNAzXjdogL\nJ7XazC2fuC4ZYoYBkvsZ/zfP/D3GNtVGeANm/Bwu/9dbtVR43zQIx8FYZbAXjShO\nz3/WMw9m28C2WJg4Kwid0ZIBG63RX2iu501CnL6PkWePlx/nEtl+86pqyAwiFWBR\nZqT3M/bWHRCnzxdErdNV+s2pwsSmCHw0dfRiHZguwwKLaFX2KV1E1hS88ghyM2Ha\n/VcZCSBM/0kW3HcME4M+awtoSqtkpsvenzD/hdNbPwKBgQDg0E9BGVJjKXDMWoEA\nsU1QKa+T2OD+H9q0UCcOE4Um0Ew+Qkixdfv47do1Yb7PpcNgOv12w32ExTe7kpmQ\nSHP632USoUCmnJV/22XO2dfuCBjBpDlEGZjqj6n2ASSDejIFDYwpq6HgM85stab1\nsMCmH74AOwCAQ5DnLiEF77yBNwKBgQDcw+hXZt1oMkDiju426oDmc47barEPee9E\n/1hiMVQACRZz0XsKRKeZn++vWlOzr3U4wztcr+8jqxz9ZMmTtv9JQvL+W0DmZ5FM\nihva62bLnGEY/Xw4npaw/OwsFlZ7Et9oAXIUJntyGKCeBL5APxjG8VwRM05HZ3jL\nHhuJkibW4wKBgDyaizLuY5JNwpWkNDB+m2vnwOgnSAfZiHihPtYBlxxufI8wCS6l\nsqZZYECRuAF8Gx4e6OMSMg0PqUWMcI8/qNxRSorqI2aGwZp1B43qldYaIqpY3gMo\nr1tUHSovBqvWzhMkoss89GdfL9+IXJjQ7C4cUnj3btwk2rQncEmMZhGjAoGBALAw\nai3XGr0d3kryZ4vMfDNv5oOXEtiXKC6Y26ECXVfp6NFmThxTzq78xf3cyRCO5671\noVrHzsNYvTo+ReJuGjAODoCRs6ou3feIAdMmLFQz6gpXw9wsNXfrY1GMQljXJxWK\nkdEjJUJaBVYX0v7TXKLp3eCcYcz695yj2rZgvj6hAoGAcIPtcQJZf0l4ndL29sOc\n1NGLVWcrl7AwbDqSrvQf1oHrkdcXlzWG9/lqC/YZAFrfZXjQ/9AjUZvcJqxGrqUK\nVwPyzTNmnvzA0GU9zA8G5k7jIQePo9znkV+HLwdBu1JXnv7Ik8BB8LahyVsaSRKf\nG/C9u6eXVdSgKmjz0n/sv3Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "emp-care@empcare.iam.gserviceaccount.com",
+  "client_id": "101008491985940947297",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emp-care%40empcare.iam.gserviceaccount.com"
+}
